@@ -4,7 +4,13 @@ _Conexión WebSocket al módulo de RKD Streaming para obtener las actualizacione
 
 ## Comenzando 
 
-_Aquí las instrucciones para descargar y compilar el proyecto de forma local._
+_Instrucciones para descargar el código de forma local y empezar con el desarrollo._
+
+```
+- git clone https://github.com/IsanchezFS/example-readme.git
+- git checkout develop && git pull origin develop
+```
+
 
 Mira **Deployment** para conocer como desplegar el proyecto en los ambientes de AWS.
 
