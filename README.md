@@ -1,6 +1,6 @@
-# Título del Proyecto
+# BVL - ConectorTRKDStreaming
 
-_En esta parte se define una síntesis del proyecto_
+_Conexión WebSocket al módulo de RKD Streaming para obtener las actualizaciones de las emisoras tic by tic_
 
 ## Comenzando 
 
