@@ -9,6 +9,7 @@ _Instrucciones para descargar el código de forma local y empezar con el desarro
 ```
 - git clone https://github.com/IsanchezFS/example-readme.git
 - git checkout develop && git pull origin develop
+- git checkout -b feature_module
 ```
 
 
@@ -17,13 +18,16 @@ Mira **Deployment** para conocer como desplegar el proyecto en los ambientes de 
 
 ### Pre-requisitos 
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Necesitas el siguiente software recomendado para trabajar este proyecto_
 
 ```
-Da un ejemplo
+- Eclipse https://www.eclipse.org/downloads/packages/release/2021-03/r/eclipse-ide-java-developers
+- Mave https://maven.apache.org/guides/getting-started/windows-prerequisites.html
+- Redis (Almacenamiento de info)
+- Mysql (Obtención de instrumentos a consultar)
 ```
 
-### Instalación 
+<!-- ### Instalación 
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
@@ -39,7 +43,7 @@ _Y repite_
 hasta finalizar
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_ -->
 
 ## Ejecutando las pruebas 
 
